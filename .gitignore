@@ -17,6 +17,11 @@ target
 release.properties
 pom.xml.*
 
+#Gradle
+.gradle
+build
+gradle.properties
+
 #Command line
 local.properties
 build.xml
